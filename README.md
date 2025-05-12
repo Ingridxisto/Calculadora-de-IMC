@@ -36,16 +36,19 @@ Este projeto é uma aplicação web desenvolvida como atividade avaliativa indiv
 
 ## 📁 Estrutura do Projeto
 
-├── index.html # Página principal com IMC e formulário
+```plaintext
+├── index.html             # Página principal com IMC e formulário
 ├── css/
-│ └── style.css # Estilos personalizados
+│   └── style.css          # Estilos personalizados
 ├── js/
-│ ├── funcoes.js # Scripts principais (IMC, CEP, validações)
-│ ├── jquery.js # Biblioteca JQuery
-│ ├── ancora.js # Rolagem suave para âncoras
-│ └── scroll.js # Efeitos de scroll da página
-├── imagens/ # Imagens utilizadas no site
-├── icon/ # Ícones da navegação
+│   ├── funcoes.js         # Scripts principais (IMC, CEP, validações)
+│   ├── jquery.js          # Biblioteca JQuery
+│   ├── ancora.js          # Rolagem suave para âncoras
+│   └── scroll.js          # Efeitos de scroll da página
+├── imagens/               # Imagens utilizadas no site
+├── icon/                  # Ícones da navegação
+```
+
 
 
 ## 🎯 Como usar
